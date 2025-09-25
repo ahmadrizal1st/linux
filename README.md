@@ -229,14 +229,3 @@ flowchart TD
         *   **System Administrator:** Enterprise Infrastructure, High Availability, Storage Systems
         *   **Cloud Engineer:** AWS, Azure, GCP Services, Kubernetes Orchestration
         *   **Security Specialist:** Penetration Testing, Security Auditing, Compliance
-
----
-
-## Additional Resources
-
-*   **Practice Environments:** Linux playgrounds, Docker containers for safe experimentation
-*   **Community Forums:** Stack Overflow, Reddit's r/linuxadmin, Linux-specific forums
-*   **Certification Paths:** LFCS (Linux Foundation Certified System Administrator), RHCSA (Red Hat)
-*   **Continuous Learning:** Follow Linux news, security updates, and new technologies
-
-This curriculum provides a comprehensive path from Linux beginner to advanced practitioner. Remember that mastery comes with consistent practice and real-world application.
