@@ -199,7 +199,7 @@ flowchart TD
 
 ## Phase 5: Advanced Topics & Specialization
 
-*   [**Module 21: Advanced Shell Scripting**](https://github.com/ahmadrizal1st/linux-scripting/#readme)
+*   [**Module 21: Advanced Shell Scripting**](https://github.com/ahmadrizal1st/linux-scripting2/#readme)
     *   Advanced Variable Manipulation
     *   Regular Expressions with `grep` and `sed`
     *   Advanced Text Processing with `awk`
